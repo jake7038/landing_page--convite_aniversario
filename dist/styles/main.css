@@ -1,5 +1,5 @@
 .hero {
-  background-image: url("../code_background.58bad6e6.jpg");
+  background-image: url("../piscina.b03fe600.webp");
   background-size: cover;
   padding-top: 64px;
   padding-bottom: 100px;
@@ -12,7 +12,7 @@
 
 .hero:before {
   content: "";
-  opacity: .7;
+  opacity: .8;
   background-color: #000;
   width: 100%;
   height: 100%;
@@ -32,7 +32,7 @@
 }
 
 .hero__logo {
-  height: 80px;
+  height: 150px;
   margin: 0 auto;
   display: block;
 }
@@ -129,7 +129,7 @@
 }
 
 .event--section1, .event--section2, .event--section3, .event--section4 {
-  background-image: linear-gradient(#1b6ca7, #442bdb);
+  background-image: linear-gradient(#008055, #136413);
 }
 
 .event--image-left .container {
