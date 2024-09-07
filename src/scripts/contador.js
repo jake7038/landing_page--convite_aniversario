@@ -1,6 +1,6 @@
 //script para a contagem da data
 
-var dataEvento = new Date("November 17, 2024 03:24:00");
+var dataEvento = new Date("November 18, 2024 03:24:00");
 const timeStampDoEvento = dataEvento.getTime();
 
 const contaHoras = setInterval(function(){
